@@ -1,0 +1,6 @@
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\bin\Debug\SD2-Main-Project-2020.exe.config
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\bin\Debug\SD2-Main-Project-2020.exe
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\bin\Debug\SD2-Main-Project-2020.pdb
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\obj\Debug\SD2-Main-Project-2020.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\obj\Debug\SD2-Main-Project-2020.exe
+C:\Users\Nate\Documents\College-SEM3\discrete math\software-project\FINAL\SD2-Main-Project-2020\SD2-Main-Project-2020\obj\Debug\SD2-Main-Project-2020.pdb
